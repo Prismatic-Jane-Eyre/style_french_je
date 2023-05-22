@@ -1,6 +1,4 @@
-# <a href="https://digitalkoine.github.io/je_prismatic_generalmap/">Type-Token Ratio (TTR) Jane Eyre French Translations</a>
-
-# Stylometry (Network Analysis) - Proof of Concept Jane Eyre French translations
+# <a href="https://digitalkoine.github.io/style_french_je/">Stylometry (Network Analysis) - Proof of Concept Jane Eyre French translations</a>
 
 This repository contains a proof-of-concept implementation showcasing the possibilities of network analysis and stylometry. The code provided demonstrates the creation of an interactive network graph using the `visNetwork` package in R, allowing for the visualization and exploration of relationships within a network of chapters of the novels de Charlotte Brontë.
 
